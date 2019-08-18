@@ -56,4 +56,3 @@ make test
 
 Per ottenere la documentazione digitare, sempre dalla directory build, il comando
 `make doc` il cui output potrà essere trovato nella directory docs.
-fe
